@@ -1,0 +1,4 @@
+.avisoNombre,.avisoPass,.avisoMail, .avisoSexo, .avisoCarrera{
+    color: red;
+    display: none;
+}
